@@ -25,8 +25,8 @@ Rumbo Joven es un programa de consola para registrar clientes de una agencia de 
 ## Ejecución
 Desde la carpeta principal del proyecto, abre la terminal y ejecuta:
 
-```powershell
-java source/RumboJoven.java
+```bash
+java RumboJoven.java
 ```
 
 ## Documentación
