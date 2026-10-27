@@ -1,0 +1,11 @@
+RUMBO JOVEN - RESPALDO DE CLIENTES
+
+Cliente #1
+Nombre: Laura Perez
+Cedula: 123456789
+Fecha del viaje: 15/12/2026
+Destino: Cartagena
+Tipo de maleta: MP
+Acompanantes: 2
+Valor del viaje: $651.300 COP
+--------------------------------
